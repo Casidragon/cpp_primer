@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout << sizeof(long long) << endl;
+	cout << sizeof(long double) << endl;
 
 	unsigned char c = 255;
 
